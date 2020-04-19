@@ -4,7 +4,8 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-import com.ratul.model.Book;
+import com.ratul.bookstore.model.Book;
+import com.ratul.bookstore.utility.BookStoreUtils;
 
 
 public class BookStoreUtilsTest {
