@@ -1,6 +1,6 @@
-package com.ratul.utility;
+package com.ratul.bookstore.utility;
 
-import com.ratul.model.Book;
+import com.ratul.bookstore.model.Book;
 
 public class BookStoreUtils {
 	public static Integer getBookPrice(Book book) {
